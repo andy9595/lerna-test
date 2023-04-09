@@ -30,7 +30,7 @@
     "@andytestgroup/lerna-test-b": "^1.1.1"
   },
   "publishConfig": {
-    "access": "public"
+    "registry":"https://npm.pkg.github.com"
   },
-  "gitHead": "de206b9766f5efe323a167471c187c170dfb720b"
+  "gitHead": "e866b80385e6bdd80dd585c29e085c8239d531ea"
 }
