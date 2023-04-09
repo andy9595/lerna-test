@@ -2,7 +2,7 @@
   "name": "@andytestgroup/lerna-test-b",
   "version": "1.1.0",
   "description": "> TODO: description",
-  "author": "andy9595 <516717614@qq.com>",
+  "author": "andy9595",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.mjs",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "80c4dd2e8bbdff8e27890ab5e54e360ca9bff341"
+  "gitHead": "de206b9766f5efe323a167471c187c170dfb720b"
 }
