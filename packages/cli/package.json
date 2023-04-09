@@ -1,6 +1,6 @@
 {
   "name": "@andytestgroup/lerna-test-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "> TODO: description",
   "author": "andy9595 <516717614@qq.com>",
   "homepage": "",
@@ -26,8 +26,8 @@
   },
   "type": "module",
   "devDependencies": {
-    "@andytestgroup/lerna-test-a": "^1.0.1",
-    "@andytestgroup/lerna-test-b": "^1.0.1"
+    "@andytestgroup/lerna-test-a": "^1.1.0",
+    "@andytestgroup/lerna-test-b": "^1.1.0"
   },
   "publishConfig": {
     "access": "public"
