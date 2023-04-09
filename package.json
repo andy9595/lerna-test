@@ -1,6 +1,5 @@
 {
   "name": "andy9595",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
