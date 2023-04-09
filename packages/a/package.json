@@ -18,5 +18,9 @@
   },
   "dependencies": {
     "chalk": "^5.2.0"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "fb238db16385293f0c92292f76c31d3b860398fe"
 }
