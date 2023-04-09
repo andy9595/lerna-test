@@ -1,6 +1,6 @@
 {
   "name": "@andytestgroup/lerna-test-a",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "> TODO: description",
   "author": "andy9595",
   "homepage": "",
@@ -20,7 +20,7 @@
     "chalk": "^5.2.0"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "gitHead": "e866b80385e6bdd80dd585c29e085c8239d531ea"
 }
